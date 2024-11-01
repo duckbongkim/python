@@ -1,6 +1,5 @@
 from django import template
-import markdown 
-from django import template
+import markdown
 from django.utils.safestring import mark_safe
 
 
